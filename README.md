@@ -1,8 +1,8 @@
-# Basic todo app
+# Basic TODO app
 
 A new Flutter basic project.
 
-## Getting Started
+## Widget Started and simple
 
 1. Download and use command-line: flutter pub get
 2. Run with command-line: flutter run
