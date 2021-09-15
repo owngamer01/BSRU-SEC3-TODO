@@ -1,16 +1,15 @@
-# example1
+# Basic todo app
 
-A new Flutter project.
+A new Flutter basic project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+1. Download and use command-line: flutter pub get
+2. Run with command-line: flutter run
 
-A few resources to get you started if this is your first Flutter project:
+Basic Widgets Referance:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- [Widget ui: All widget category ui](https://flutter.dev/docs/development/ui/widgets)
+- [Widget gallary: Useful Flutter samples](https://gallery.flutter.dev/#/)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+let's make your job is done with your hand.
